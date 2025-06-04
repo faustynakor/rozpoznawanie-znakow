@@ -1,0 +1,1 @@
+[{"image": "Screenshot_111.png", "annotations": [{"label": "B-22", "coordinates": {"x": 1189.5, "y": 32.5, "width": 111.0, "height": 63.0}}, {"label": "D-6", "coordinates": {"x": 654.5, "y": 457.5, "width": 21.0, "height": 25.0}}, {"label": "B-2", "coordinates": {"x": 1065.0, "y": 441.5, "width": 32.0, "height": 31.0}}]}]
