@@ -60,4 +60,4 @@ def detect_from_video(video_path, model_path, class_map_path, output_path="outpu
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    detect_from_video("video/video_1.mp4", "model_epoch_10.pth", "labels/classes.txt", output_path="output/result.mp4")
+    detect_from_video("video/video_1.mp4", "model_epoch_10.pth", "detecion/labels/classes.txt", output_path="output/result.mp4")

@@ -44,7 +44,7 @@ def detect_from_image(image_path, model_path, class_map_path):
 if __name__ == "__main__":
     # Podmień na rzeczywistą ścieżkę do jednego z testowych obrazów
     detect_from_image(
-        image_path="images/test/Screenshot_27.png",
+        image_path="detecion/images/test/Screenshot_27.png",
         model_path="model_epoch_10.pth",
-        class_map_path="labels/classes.txt"
+        class_map_path="detecion/labels/classes.txt"
     )

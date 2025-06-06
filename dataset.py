@@ -19,7 +19,7 @@ class TrafficSignDataset(Dataset):
     def __getitem__(self, idx):
         img_name = self.image_files[idx]
         img_path = os.path.join(self.image_dir, img_name)
-        label_path = os.path.join(self.label_dir, img_name.replace(".png", ".json"))
+        label_path = os.path.join(self.label_dir, os.path.splitext(img_name)[0] + '.json')
 
         # Wymuszenie RGB i konwersja do tensora
         img = Image.open(img_path).convert("RGB")
