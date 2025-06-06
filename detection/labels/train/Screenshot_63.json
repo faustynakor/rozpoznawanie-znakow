@@ -1,1 +1,24 @@
-[{"image": "Screenshot_63.png", "annotations": [{"label": "D-6b", "coordinates": {"x": 1255.0, "y": 405.0, "width": 56.0, "height": 54.0}}, {"label": "C-9", "coordinates": {"x": 893.0, "y": 475.0, "width": 34.0, "height": 52.0}}]}]
+[
+    {
+        "annotations": [
+            {
+                "label": "D-6b",
+                "coordinates": {
+                    "x": 1254.999807,
+                    "y": 405.00007800000003,
+                    "width": 56.000313,
+                    "height": 53.99982
+                }
+            },
+            {
+                "label": "C-9",
+                "coordinates": {
+                    "x": 893.000259,
+                    "y": 474.999924,
+                    "width": 33.999462,
+                    "height": 51.999906
+                }
+            }
+        ]
+    }
+]

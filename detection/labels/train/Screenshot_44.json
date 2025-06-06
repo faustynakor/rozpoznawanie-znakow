@@ -1,1 +1,51 @@
-[{"image": "Screenshot_44.png", "annotations": [{"label": "D-6b", "coordinates": {"x": 913.0, "y": 459.5, "width": 38.0, "height": 29.0}}, {"label": "D-6b", "coordinates": {"x": 195.5, "y": 475.5, "width": 35.0, "height": 31.0}}, {"label": "C-9", "coordinates": {"x": 195.0, "y": 506.5, "width": 42.0, "height": 29.0}}, {"label": "D-3", "coordinates": {"x": 700.5, "y": 509.5, "width": 19.0, "height": 19.0}}, {"label": "B-36", "coordinates": {"x": 699.0, "y": 477.5, "width": 28.0, "height": 23.0}}]}]
+[
+    {
+        "annotations": [
+            {
+                "label": "D-6b",
+                "coordinates": {
+                    "x": 913.000662,
+                    "y": 459.499698,
+                    "width": 38.000358,
+                    "height": 28.999824
+                }
+            },
+            {
+                "label": "D-6b",
+                "coordinates": {
+                    "x": 195.50030400000003,
+                    "y": 475.49972399999996,
+                    "width": 34.999686,
+                    "height": 30.999737999999997
+                }
+            },
+            {
+                "label": "C-9",
+                "coordinates": {
+                    "x": 195.000192,
+                    "y": 506.500176,
+                    "width": 41.999894999999995,
+                    "height": 28.999824
+                }
+            },
+            {
+                "label": "D-3",
+                "coordinates": {
+                    "x": 700.5006270000001,
+                    "y": 509.49969000000004,
+                    "width": 19.000179,
+                    "height": 19.000253999999998
+                }
+            },
+            {
+                "label": "B-36",
+                "coordinates": {
+                    "x": 699.000291,
+                    "y": 477.500352,
+                    "width": 27.999477,
+                    "height": 23.000082
+                }
+            }
+        ]
+    }
+]

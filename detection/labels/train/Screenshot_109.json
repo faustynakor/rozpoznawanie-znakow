@@ -1,1 +1,69 @@
-[{"image": "Screenshot_109.png", "annotations": [{"label": "C-9", "coordinates": {"x": 520.5, "y": 519.0, "width": 47.0, "height": 48.0}}, {"label": "B-36", "coordinates": {"x": 826.5, "y": 439.0, "width": 21.0, "height": 20.0}}, {"label": "B-36", "coordinates": {"x": 441.5, "y": 449.5, "width": 39.0, "height": 29.0}}, {"label": "D-18", "coordinates": {"x": 830.5, "y": 463.5, "width": 25.0, "height": 23.0}}, {"label": "D-3", "coordinates": {"x": 959.5, "y": 438.5, "width": 39.0, "height": 33.0}}, {"label": "D-3", "coordinates": {"x": 828.5, "y": 493.0, "width": 27.0, "height": 22.0}}, {"label": "D-6", "coordinates": {"x": 957.5, "y": 471.0, "width": 37.0, "height": 24.0}}]}]
+[
+    {
+        "annotations": [
+            {
+                "label": "C-9",
+                "coordinates": {
+                    "x": 520.499718,
+                    "y": 519.000174,
+                    "width": 46.999655999999995,
+                    "height": 48.000077999999995
+                }
+            },
+            {
+                "label": "B-36",
+                "coordinates": {
+                    "x": 826.500312,
+                    "y": 439.000044,
+                    "width": 21.000626999999998,
+                    "height": 19.999854
+                }
+            },
+            {
+                "label": "B-36",
+                "coordinates": {
+                    "x": 441.49968900000005,
+                    "y": 449.500128,
+                    "width": 39.000582,
+                    "height": 28.999824
+                }
+            },
+            {
+                "label": "D-18",
+                "coordinates": {
+                    "x": 830.4998489999999,
+                    "y": 463.50023999999996,
+                    "width": 25.000163999999998,
+                    "height": 23.000082
+                }
+            },
+            {
+                "label": "D-3",
+                "coordinates": {
+                    "x": 959.500206,
+                    "y": 438.50024399999995,
+                    "width": 39.000582,
+                    "height": 32.999652000000005
+                }
+            },
+            {
+                "label": "D-3",
+                "coordinates": {
+                    "x": 828.499401,
+                    "y": 492.999864,
+                    "width": 27.000612,
+                    "height": 21.999768
+                }
+            },
+            {
+                "label": "D-6",
+                "coordinates": {
+                    "x": 957.499758,
+                    "y": 471.00009600000004,
+                    "width": 37.000134,
+                    "height": 23.999681999999996
+                }
+            }
+        ]
+    }
+]
