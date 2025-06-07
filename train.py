@@ -25,11 +25,11 @@ def collate_fn(batch):
 def train():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    label_map = load_class_map("detecion/labels/classes.txt")
+    label_map = load_class_map("detection/labels/classes.txt")
 
     dataset = TrafficSignDataset(
-        image_dir="detecion/images/train",
-        label_dir="detecion/labels/train",
+        image_dir="detection/images/train",
+        label_dir="detection/labels/train",
         class_map=label_map
     )
 
