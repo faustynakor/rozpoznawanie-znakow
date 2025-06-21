@@ -1,1 +1,33 @@
-[{"image": "Screenshot_59.png", "annotations": [{"label": "B-36", "coordinates": {"x": 694.5, "y": 456.5, "width": 25.0, "height": 27.0}}, {"label": "C-13-C-16", "coordinates": {"x": 1147.0, "y": 440.5, "width": 34.0, "height": 43.0}}, {"label": "D-3", "coordinates": {"x": 329.0, "y": 491.5, "width": 44.0, "height": 25.0}}]}]
+[
+    {
+        "annotations": [
+            {
+                "label": "B-36",
+                "coordinates": {
+                    "x": 694.500642,
+                    "y": 456.50018400000005,
+                    "width": 25.000163999999998,
+                    "height": 26.99991
+                }
+            },
+            {
+                "label": "C-13-C-16",
+                "coordinates": {
+                    "x": 1147.000077,
+                    "y": 440.500158,
+                    "width": 33.999462,
+                    "height": 42.999936
+                }
+            },
+            {
+                "label": "D-3",
+                "coordinates": {
+                    "x": 329.00031,
+                    "y": 491.49974999999995,
+                    "width": 44.000343,
+                    "height": 24.999996000000003
+                }
+            }
+        ]
+    }
+]

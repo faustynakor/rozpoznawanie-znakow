@@ -1,1 +1,60 @@
-[{"image": "Screenshot_52.png", "annotations": [{"label": "D-6b", "coordinates": {"x": 264.0, "y": 403.0, "width": 30.0, "height": 24.0}}, {"label": "D-6b", "coordinates": {"x": 915.5, "y": 415.0, "width": 31.0, "height": 24.0}}, {"label": "A-7", "coordinates": {"x": 413.0, "y": 473.0, "width": 34.0, "height": 20.0}}, {"label": "A-7", "coordinates": {"x": 888.5, "y": 470.0, "width": 29.0, "height": 18.0}}, {"label": "C-12", "coordinates": {"x": 415.5, "y": 500.5, "width": 39.0, "height": 27.0}}, {"label": "C-12", "coordinates": {"x": 889.5, "y": 498.5, "width": 21.0, "height": 27.0}}]}]
+[
+    {
+        "annotations": [
+            {
+                "label": "D-6b",
+                "coordinates": {
+                    "x": 263.99933999999996,
+                    "y": 403.000164,
+                    "width": 29.999925,
+                    "height": 23.999681999999996
+                }
+            },
+            {
+                "label": "D-6b",
+                "coordinates": {
+                    "x": 915.4998629999999,
+                    "y": 414.999648,
+                    "width": 31.000149,
+                    "height": 23.999681999999996
+                }
+            },
+            {
+                "label": "A-7",
+                "coordinates": {
+                    "x": 413.00010000000003,
+                    "y": 473.00001,
+                    "width": 33.999462,
+                    "height": 19.999854
+                }
+            },
+            {
+                "label": "A-7",
+                "coordinates": {
+                    "x": 888.5006099999999,
+                    "y": 469.99978200000004,
+                    "width": 28.999701,
+                    "height": 17.99994
+                }
+            },
+            {
+                "label": "C-12",
+                "coordinates": {
+                    "x": 415.50066000000004,
+                    "y": 500.49972,
+                    "width": 39.000582,
+                    "height": 26.99991
+                }
+            },
+            {
+                "label": "C-12",
+                "coordinates": {
+                    "x": 889.4994750000001,
+                    "y": 498.499806,
+                    "width": 21.000626999999998,
+                    "height": 26.99991
+                }
+            }
+        ]
+    }
+]

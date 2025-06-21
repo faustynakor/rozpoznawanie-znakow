@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/zuzan/Desktop/rz/runs/mlflow/303695096700337232/d168042efe2748628867371f736c931c/artifacts
+end_time: 1750417213553
+entry_point_name: ''
+experiment_id: '303695096700337232'
+lifecycle_stage: active
+run_id: d168042efe2748628867371f736c931c
+run_name: train
+run_uuid: d168042efe2748628867371f736c931c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750416371995
+status: 3
+tags: []
+user_id: zuzan

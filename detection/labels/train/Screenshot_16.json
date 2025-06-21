@@ -1,1 +1,15 @@
-[{"image": "Screenshot_16.png", "annotations": [{"label": "B-34", "coordinates": {"x": 726.0, "y": 384.5, "width": 82.0, "height": 83.0}}]}]
+[
+    {
+        "annotations": [
+            {
+                "label": "B-34",
+                "coordinates": {
+                    "x": 725.999544,
+                    "y": 384.49971,
+                    "width": 81.999342,
+                    "height": 82.999644
+                }
+            }
+        ]
+    }
+]

@@ -1,1 +1,60 @@
-[{"image": "Screenshot_30.png", "annotations": [{"label": "A-7", "coordinates": {"x": 152.5, "y": 384.0, "width": 57.0, "height": 46.0}}, {"label": "A-7", "coordinates": {"x": 1017.5, "y": 399.5, "width": 47.0, "height": 35.0}}, {"label": "C-12", "coordinates": {"x": 148.0, "y": 431.0, "width": 52.0, "height": 38.0}}, {"label": "C-12", "coordinates": {"x": 1013.5, "y": 441.5, "width": 53.0, "height": 35.0}}, {"label": "D-6b", "coordinates": {"x": 146.5, "y": 474.0, "width": 53.0, "height": 38.0}}, {"label": "D-6b", "coordinates": {"x": 1022.5, "y": 475.0, "width": 33.0, "height": 34.0}}]}]
+[
+    {
+        "annotations": [
+            {
+                "label": "A-7",
+                "coordinates": {
+                    "x": 152.500185,
+                    "y": 383.99991000000006,
+                    "width": 57.000537,
+                    "height": 46.000164
+                }
+            },
+            {
+                "label": "A-7",
+                "coordinates": {
+                    "x": 1017.4996080000001,
+                    "y": 399.500136,
+                    "width": 46.999655999999995,
+                    "height": 35.000280000000004
+                }
+            },
+            {
+                "label": "C-12",
+                "coordinates": {
+                    "x": 148.000536,
+                    "y": 430.99967399999997,
+                    "width": 51.999417,
+                    "height": 37.999794
+                }
+            },
+            {
+                "label": "C-12",
+                "coordinates": {
+                    "x": 1013.500071,
+                    "y": 441.499758,
+                    "width": 52.999641,
+                    "height": 35.000280000000004
+                }
+            },
+            {
+                "label": "D-6b",
+                "coordinates": {
+                    "x": 146.5002,
+                    "y": 474.000324,
+                    "width": 52.999641,
+                    "height": 37.999794
+                }
+            },
+            {
+                "label": "D-6b",
+                "coordinates": {
+                    "x": 1022.499369,
+                    "y": 474.999924,
+                    "width": 33.000597,
+                    "height": 33.999966
+                }
+            }
+        ]
+    }
+]

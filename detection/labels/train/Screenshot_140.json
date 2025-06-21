@@ -1,1 +1,15 @@
-[{"image": "Screenshot_140.png", "annotations": [{"label": "D-15", "coordinates": {"x": 1015.0, "y": 428.0, "width": 66.0, "height": 62.0}}]}]
+[
+    {
+        "annotations": [
+            {
+                "label": "D-15",
+                "coordinates": {
+                    "x": 1015.000407,
+                    "y": 428.00016,
+                    "width": 65.99983499999999,
+                    "height": 62.000189999999996
+                }
+            }
+        ]
+    }
+]
